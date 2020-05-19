@@ -31,4 +31,4 @@ We then filter using the keys: "mental, "alcoho*", "violen*", "subst*", "abuse"
 The search is available 
 <a href="search-strategy/query.R" target="_blank">here</a> 
 and the list of current studies can be found
-<a href="search-strategy/current-studies.R" target="_blank">here</a> 
+<a href="search-strategy/current-studies.csv" target="_blank">here</a> 
