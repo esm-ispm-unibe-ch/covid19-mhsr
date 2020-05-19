@@ -23,10 +23,10 @@ The dhall-REDCap api we build can be found
 <a href="https://redcap.ispm.unibe.ch/surveys/?s=Y8P2d9QFHI" target="_blank">data extraction demod link</a>
 
 ### Search strategy 
-We are using studies from ISPM's 
+We are using published studies from ISPM's 
 [Living Evidence on COVID-19](https://ispmbern.github.io/covid-19/living-review/collectingdata.html)
 systematic review.
-We then filter using the keys:
+We then filter using the keys: "mental, "alcoho*", "violen*", "subst*", "abuse"
 
-The search is available [here]("./search-strategy/screening.R") and the list of current studies can be
-found [here]("./search-strategy/studies.csv")
+The search is available [here]("./search-strategy/query.R") and the list of current studies can be
+found [here]("./search-strategy/current-studies.csv")
