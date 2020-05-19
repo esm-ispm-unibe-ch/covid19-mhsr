@@ -28,5 +28,7 @@ We are using published studies from ISPM's
 systematic review.
 We then filter using the keys: "mental, "alcoho*", "violen*", "subst*", "abuse"
 
-The search is available [here]("search-strategy/query.R") and the list of current studies can be
-found [here]("search-strategy/current-studies.csv")
+The search is available 
+<a href="search-strategy/query.R" target="_blank">here</a> 
+and the list of current studies can be found
+<a href="search-strategy/current-studies.R" target="_blank">here</a> 
