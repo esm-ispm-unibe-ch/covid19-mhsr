@@ -16,14 +16,9 @@ references<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_r
 #######################
 #For keyword selection see protocol: https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=180049
 
-keywordlist=c( "mental"
-             , "alcoho*"
-             , "violen*"
-             , "subst*"
-             , "abuse"
-             )
+keywords = "(((*behavi*)|(*affective*)|(*adjust*)|(*mood*)|(*eating*))&(*disorder*))|(*anorexi*)|(*bulimi*)|(*binge eating*)|(*neurosis*)|(*obsess*)|(*mania*)|(*schizophren*)|(*mental health*)|(*mental well*)|(*mental ill*)|(*mentally ill*)|(*resilien*)|(*anxiety*)|(*anxious*)|(*panic*)|(*phobi*)|(*schizo*)|(*delusion*)|(*stress*)|(*impuls control*)|(*compulsive*)|(*depressi*)|(*neurotic*)|(*neurosis*)|(*somatoform*)|(*hypochondria*)|(*hysteri*)|(*paranoid*)|(*psycho*)|(*dysthymic*)|(*dementia*)|(*alzheimer*)|(*addict*)|(*drug dependen*)|(*drug abus*)|(*drug use*)|(((*substance*)|(*alcohol*)|(*drink*))&((*abuse*)|(*misuse*)|(*dependen*)|(*behavi*)|(*consum*)))|(*aggress*)|(*anger*)|(*angry*)|(*assault*)|(*hostil*)|(*bully*)|(*bullie*)|(*violen*)|(*abus*)|(*batter*)|(*tortur*)|(*mutilat*)|(*molest*)|(*murder*)|(*parricid*)|(*suicide*)"
 
-keywords = paste(c("(",paste(keywordlist,collapse = ")|("),")"),collapse="")
+print(keywords)
 
 new_refs=references %>% 
   filter(grepl(keywords,paste(abstract,title), ignore.case = TRUE)) %>% # run search in title and abstract, case-indepdent
