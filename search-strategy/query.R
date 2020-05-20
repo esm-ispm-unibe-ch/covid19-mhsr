@@ -30,6 +30,6 @@ new_refs=references %>%
   filter(source %in% c(3,4)) # no preprints
 
 filename=paste0(format(Sys.time(), "%Y%m%d_%H%M%S_"), "newrefs.csv")
-write.csv(file=filename,new_refs)
+write.csv2(file=filename,new_refs)
 
 print(nrow(new_refs))

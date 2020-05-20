@@ -31,4 +31,4 @@ We then filter using the keys: "mental, "alcoho*", "violen*", "subst*", "abuse"
 The search is available 
 <a href="search-strategy/query.R" target="_blank">here</a> 
 and the list of current studies can be found
-<a href="https://github.com/esm-ispm-unibe-ch/covid19-mhsr/blob/master/search-strategy/20200519_163158_newrefs.csv" download>here</a> 
+<a href="https://github.com/esm-ispm-unibe-ch/covid19-mhsr/blob/master/search-strategy/20200520_114901_newrefs.csv" download>here</a> 
