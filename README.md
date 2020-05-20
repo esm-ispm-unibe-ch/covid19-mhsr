@@ -26,6 +26,6 @@ The dhall-REDCap api we build can be found
 We are using published studies from ISPM's 
 [Living Evidence on COVID-19](https://ispmbern.github.io/covid-19/living-review/collectingdata.html)
 systematic review.
-For further details 
-<a href="https://esm-ispm-unibe-ch.github.io/covid19-mhsr/search-strategy/" download>here</a> 
-and the archive of studies can be found
+
+Detailed description can be found
+<a href="https://esm-ispm-unibe-ch.github.io/covid19-mhsr/search-strategy" download>here</a> 
