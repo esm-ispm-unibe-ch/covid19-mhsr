@@ -36,4 +36,4 @@ We then filter with the following keyword blocks
 The script query is available 
 <a href="query.R" target="_blank">here</a> 
 and the archive of studies can be found
-<a href="https://github.com/esm-ispm-unibe-ch/covid19-mhsr/search-strategy" download>here</a> 
+<a href="https://github.com/esm-ispm-unibe-ch/covid19-mhsr/tree/master/search-strategy" download>here</a> 
