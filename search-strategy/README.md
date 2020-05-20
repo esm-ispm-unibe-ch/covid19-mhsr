@@ -33,6 +33,7 @@ We then filter with the following keyword blocks
 
 ### Results 
 
+Latest version *20 05 2020*
 The script query is available 
 <a href="query.R" target="_blank">here</a> 
 and the archive of studies can be found
