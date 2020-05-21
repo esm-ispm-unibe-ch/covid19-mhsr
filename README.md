@@ -3,7 +3,7 @@
 <a href="https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=180049" target="_blank">The protocol</a>
 
 ### Setting up REDCap
-All data including studies and users are stored in [IPSM's](https://redcap.ispm.unibe.ch/) REDCap server.
+All data including studies and users are stored in [IPSM](https://redcap.ispm.unibe.ch/).
 The screening and data extraction will be done through croudsourcing and thus we
 decided on using the survey functionality of REDCap where each record is
 assigned to a reviewer indicated in the database. 
