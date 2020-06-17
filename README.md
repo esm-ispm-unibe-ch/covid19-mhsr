@@ -30,6 +30,14 @@ systematic review.
 Detailed description can be found
 <a href="https://esm-ispm-unibe-ch.github.io/covid19-mhsr/search-strategy" download>here</a> 
 
+Current list of papers to be extracted is in search strategy folder
+<a href="https://esm-ispm-unibe-ch.github.io/covid19-mhsr/search-strategy/20200520_174601_newrefs.csv"> here </a>
+.
+
 ### Data Extraction
 
-You can find data extraction instructions <a href="https://esm-ispm-unibe-ch.github.io/covid19-mhsr/search-strategy/Explanations\ for\ Data\ extraction.docx"> here </a>
+You can find data extraction instructions 
+<a href="https://esm-ispm-unibe-ch.github.io/covid19-mhsr/search-strategy/Explanations_for_Data_extraction.docx"> here </a>
+
+List of collaborators <a href="https://esm-ispm-unibe-ch.github.io/covid19-mhsr/search-strategy/Reviewers_for_COVID_and_MH.pdf"> here </a>
+
