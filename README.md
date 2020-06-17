@@ -20,7 +20,7 @@ The dhall-REDCap api we build can be found
 #### Surveys
 <a href="https://redcap.ispm.unibe.ch/surveys/?s=jzaY6WCR7A" target="_blank">screening demo link</a>
 
-<a href="https://redcap.ispm.unibe.ch/surveys/?s=Y8P2d9QFHI" target="_blank">data extraction demod link</a>
+<a href="https://redcap.ispm.unibe.ch/surveys/?s=Y8P2d9QFHI" target="_blank">data extraction demo link</a>
 
 ### Search strategy 
 We are using published studies from ISPM's 
@@ -29,3 +29,7 @@ systematic review.
 
 Detailed description can be found
 <a href="https://esm-ispm-unibe-ch.github.io/covid19-mhsr/search-strategy" download>here</a> 
+
+### Data Extraction
+
+You can find data extraction instructions <a href="https://esm-ispm-unibe-ch.github.io/covid19-mhsr/search-strategy/Explanations\ for\ Data\ extraction.docx"> here </a>
