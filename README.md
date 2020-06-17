@@ -37,7 +37,7 @@ Current list of papers to be extracted is in search strategy folder
 ### Data Extraction
 
 You can find data extraction instructions 
-<a href="https://esm-ispm-unibe-ch.github.io/covid19-mhsr/search-strategy/Explanations_for_Data_extraction.docx"> here </a>
+<a href="https://esm-ispm-unibe-ch.github.io/covid19-mhsr/search-strategy/Explanations_for_Data_extraction.docx" download> here </a>
 
-List of collaborators <a href="https://esm-ispm-unibe-ch.github.io/covid19-mhsr/search-strategy/Reviewers_for_COVID_and_MH.pdf"> here </a>
+List of collaborators <a href="https://esm-ispm-unibe-ch.github.io/covid19-mhsr/search-strategy/Reviewers_for_COVID_and_MH.pdf" download> here </a>
 
