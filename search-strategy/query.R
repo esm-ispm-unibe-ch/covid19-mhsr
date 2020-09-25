@@ -7,7 +7,10 @@ library(dplyr)
 
 # retrieve all references (CTU redcap):
 
-references<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current.csv", stringsAsFactors=F)
+references1<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current_part1.csv", stringsAsFactors=FALSE)
+references2<-read.csv(file="https://raw.githubusercontent.com/ZikaProject/COVID_references/master/current_part2.csv", stringsAsFactors=FALSE)
+
+references = bind_rows (references1,references2)
 
 #######################
 #                     # 
